@@ -1,3 +1,5 @@
 # netty-practice
 
-This is my pratice for netty
+This is my pratice for netty.
+
+NIO
